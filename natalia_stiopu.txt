@@ -1,0 +1,8 @@
+Tecnologias y herramientas que me gustan y me gustaria aprender:
+
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+- Python
+- JAVASCRIPT
